@@ -1,0 +1,45 @@
+.border {
+    box-sizing: border-box;
+    padding: 0 50px;
+}
+.menu{
+    height: 100px;
+    width: auto;
+}
+.menu-left{
+    width: 50%;
+    height: 99px;
+    text-decoration: none;
+}
+
+.menu-left img{
+    margin-right: 10px;
+}
+
+.menu-right{
+    width: 50%;
+    height: 99px;
+}
+
+.menu-style-text{
+    font-size: 16px;
+    text-decoration: none;
+    padding-left: 10px;
+    margin-right: 10px;
+    color: #303030;
+    transition: 0.3s;
+}
+
+.menu-style-text:hover{
+    color: #e5e5e5;
+}
+
+.flex-end{
+    justify-content: flex-end;
+}
+
+.gray-line{
+    height: 1px;
+    background-color: #e5e5e5;
+    margin-bottom: 10px;
+}
