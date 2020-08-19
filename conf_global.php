@@ -1,8 +1,8 @@
 <?
 
 define('DB_HOST','localhost');
-define('DB_USER','timon');
-define('DB_PASSWORD','20091993dec');
+define('DB_USER','tim');
+define('DB_PASSWORD','2009');
 define('DB_NAME','ironlinks.ru');
 
 
